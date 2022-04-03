@@ -135,7 +135,7 @@ License
 
 Licensed under the [New 3-Clause BSD License](http://www.opensource.org/licenses/BSD-3-Clause).
 
-    Copyright 2009, Mahmood Ali.
+    Copyright 2009, Edgar Papyan.
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
